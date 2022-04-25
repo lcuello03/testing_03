@@ -1,0 +1,27 @@
+{
+  "mochaExplorer.ui": "qunit",
+  "mochaExplorer.files": "tests/**/*.spec.js",
+  "mochaExplorer.timeout": 200000,
+  "mochaExplorer.ignore": [
+    ".snowqm/tests/*", 
+	"**/node_modules/**/*.*",
+    "tests/**/node_modules/**/*.*"
+  ],
+  "mochaExplorer.require": [
+    "source-map-support/register"
+  ],
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "workbench.startupEditor": "readme",
+  "mochaExplorer.launcherScript": "tests/node_modules/mocha-explorer-launcher-scripts-c8/c8/index.js",
+  "workbench.colorTheme": "Dark BlackDiamond",
+  "workbench.preferredDarkColorTheme": "Dark BlackDiamond",
+  "workbench.preferredHighContrastColorTheme": "Dark BlackDiamond",
+  "workbench.preferredLightColorTheme": "Dark BlackDiamond",
+  "workbench.editorAssociations": {
+    "*.csv": "gc-excelviewer-csv-editor"
+  },
+  "python.showStartPage": false,
+  "metals.serverVersion": "0.11.3-SNAPSHOT"
+}
