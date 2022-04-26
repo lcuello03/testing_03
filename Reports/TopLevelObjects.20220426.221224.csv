@@ -1,0 +1,13 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDb,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,NameOfUDFFiles,ConversionPercentage,EWIsNumber,ObjectDB,CharacterCount,CharacterConversionPercentage,LoCConversionPercentage
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,TABLE0,CREATE TABLE,Undefined DB name,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,1,7,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,TABLE1,CREATE TABLE,Undefined DB name,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,9,5,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,TABLE2,CREATE TABLE,Undefined DB name,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,15,5,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,ERROR1,CREATE / REPLACE PROCEDURE,PROC,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,22,6,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,ERROR2,CREATE / REPLACE PROCEDURE,PROC,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,30,4,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,DYNAMIC_RESULT_SETS,CREATE / REPLACE PROCEDURE,SNOWCONVERT,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,36,8,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,JoinName,CREATE JOIN INDEX,DataBaseName1,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,45,3,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,new_emp1oyee,CREATE MACRO,Undefined DB name,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,49,13,Low,Fully Converted,MSCEWI1022,,,100%,1,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,calc1,CREATE FUNCTION,Undefined DB name,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,63,13,,Fully Converted,,,,100%,0,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,myudf,CREATE FUNCTION,test,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,77,11,Low,Fully Converted,MSCEWI1020 | MSCEWI2053,PERIOD_END_UDF,PERIOD_UDF.sql,100%,2,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,JAVA$CLASS$MD5$TABLE,CREATE / REPLACE VIEW,ZAI_P_Source,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,89,19,Low,Fully Converted,MSCEWI1050,,,100%,1,,0,,
+d820f1e1-7f00-49a0-979d-93163d483f02,SQL,NEWVIEW,CREATE / REPLACE VIEW,PUBLIC,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,109,8,,Fully Converted,,,,100%,0,,0,,

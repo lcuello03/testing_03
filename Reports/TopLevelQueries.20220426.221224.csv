@@ -1,0 +1,1 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,ConversionPercentage,EWIsNumber,ObjectDB,CharacterCount,CharacterConversionPercentage,LoCConversionPercentage

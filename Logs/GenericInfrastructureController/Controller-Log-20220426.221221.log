@@ -1,0 +1,53 @@
+Debug: Session id: d820f1e1-7f00-49a0-979d-93163d483f02
+Debug: Code Processor information: Name :SnowConvert, Version: 4.0.108.0
+Debug: Getting license
+Debug: License information
+	Status: Successful
+Info: Starting to validate parameters
+Info: Parameters to validate: 
+	Execution mode: Conversion
+	CustomSchema: 
+	Database: 
+	CommentIfMissingDependencies: False
+	DisableEWIsGeneration: False
+	GenerateStoredProcedureTags: False
+	CharacterToApproximateNumber: 10
+	DefaultDateFormat: YYYY/MM/DD
+	DefaultTimeFormat: HH:MI:SS
+	DefaultTimestampFormat: YYYY/MM/DD HH:MI:SS
+	DefaultTimezoneFormat: GMT-5
+	Encoding: DEFAULT
+	ReplaceDeleteAllToTruncate: False
+	AppVersion: 2.0.167.0
+	SnowScript: False
+Info: Validation of parameters: Success
+Debug: Getting code descriptor
+Debug: Code descriptor information
+	Units: 105
+	Units type: LOC
+	All file bytes: 2447
+	All found extensions: .sql,.dml,.ddl,.bteq,.btq,.fl,.fload,.ml,.mload,.mld,.tp,.tpump,.tpt
+Debug: Calculating fingerprint
+Debug: Fingerprint information Fingerprint(size=2447,projects=1)
+Info: Starting to validate active license
+Info: Active license validation: Success
+Debug: License information
+	License key ends with: 42ba
+	License type: DEFAULT
+	Start date: 2022/02/08
+	Expiration date: 2022/05/09
+	Execution mode: Conversion
+	Unit type: Lines of code
+	Owner name: luis felipe cuello ayala
+	Owner email: lcuello@mobilize.net
+	Owner company: mobilize
+	Created by: studio@mobilize.net
+	Remaining activations: 99930
+	Products: SnowConvert
+Debug: Getting license
+Debug: License information
+	Status: Successful
+Debug: Starting the execution of the controller
+Debug: Executing the worker: SnowConvert
+Debug: Finished executing the worker: SnowConvert
+Info: Controller execution ended
